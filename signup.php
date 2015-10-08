@@ -26,9 +26,8 @@
 			<input type="text" placeholder="Username"  name='usn'  autofocus>
 			<input type="password" placeholder="Password" name='passwd'>
 			<select name="signup" onchange="redirect">
-			<option value=""> Select Your Choice</option>
-			<option value="1">Doctors </option>
-			<option value="2">Patients </option>
+			<button type="submit" id="login-button">Doctors</button>
+			<button type="submit" id="login-button">Patienst</button>
 			
 		</form>
 	</div>

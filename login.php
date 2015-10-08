@@ -3,15 +3,9 @@
 <html >
   <head>
     <meta charset="UTF-8">
-    <title>BOOK A DOCTOR</title>
+    <title>BOOK A DOCTOR</title>  
     
-    
-    
-    
-        <link rel="stylesheet" href="csslogin/style.css">
-
-    
-    
+        <link rel="stylesheet" href="csslogin/style.css">  
     
   </head>
 
@@ -52,9 +46,7 @@
 
     <!--  <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>-->
 
-        <script src="jslogin/index.js"></script>
-
-    
+        <script src="jslogin/index.js"></script>   
   
     
   </body>
